@@ -1,0 +1,15 @@
+Professor: Todd Neller
+Department: Computer Science
+Courses Taught: CS111, CS112, CS216, CS371
+
+Reviews:
+
+"Dr. Neller is smart guy and genuine person."
+
+"Assignments were poorly graded. He treated the class as though students were meant to already be professionals/working for Google or something. He told me that "other students have had harder circumstances and done better in his class." Religious tangents and a portion of the class spent raving about games instead of professing during class."
+
+"Amazing professor, I understand his frustration with violations to Honor Code but: Day 1: Multiple choice moodle quiz and programming quiz graded separately. Day 2: Paired partner homework assignments. Day 3 (every other week): Individual homework assignments. On top of that, readings everyday AND 4th Hour assignment throughout the entire year."
+
+"Professor Neller is a very sweet and understanding professor. His outside work is tedious but very easy since they are "Flipped Classrooms" where you watch up to an hour video of his recorded lectures and follow along. His homeworks are easy but then start to get harder once the textbook becomes less relavent. And quizzes every week."
+
+"This class CS371 is pretty enjoyable. He assigns reading prior to every class, but it is fine not to read at all. Attendance is a must. His teaching materials are quite out-of-date since he focuses on searching and simple reinforcement learning algorithms, but he is trying to add new materials. The 4th-hour project varies in each cohort."

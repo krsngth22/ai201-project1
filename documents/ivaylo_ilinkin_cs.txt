@@ -1,0 +1,15 @@
+Professor: Ivaylo Ilinkin
+Department: Computer Science
+Courses Taught: CS111, CS112, CS216, CS221
+
+Reviews:
+
+"Never take his class again."
+
+"Ivaylo knows the material and is helpful in office hours, but the class is a grind. Homework is tough but doable given enough time, and the exams feel like IQ tests since he expects full fluency. He's intimidating and very direct he'll tell you to drop if you're struggling. Lectures are clear but dry, and his style can make the course feel draining."
+
+"He was somewhat helpful at first, but things went downhill quickly as his teaching method became less useful over time. Lack of communication and cohesion, boring lectures, and not very helpful office hours. He didn't even give grades or provide feedback, so we didn't know what we were supposed to learn from the homework. It was a waste of time."
+
+"He was impressive in lecturing at the very beginning. But his homeworks were insanely long and difficult to deal with. I chatted with my peers at other institutions about the difficulty level. They mentioned to me that his CS-216 course teaching style resembles to a graduate level course. He was not so helpful in office hours."
+
+"Prof Ilinkin is a kind, nice guy, knows his stuff very well, and is surprisingly good at teaching. He has accent but is very articulate, leaving no dead time in lectures. Exam are on paper, and assignments are hard and time-consuming if you don't have much experience, but he's accessible almost everyday, patient to give you detail comments."

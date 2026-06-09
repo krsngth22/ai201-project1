@@ -1,0 +1,16 @@
+Professor: Daniel White
+Department: Computer Science
+Courses Taught: CS107, CS201, CS301
+
+Reviews:
+
+"The curriculum completely changed from last semester. If you have never coded do not take this class."
+
+"The professor is passionate about Computer Science and presents material through lectures. Each class begins with a short quiz based on the previous lesson. Exams are written and make up a large portion of the final grade. Familiarity with programming concepts may be helpful for this course."
+
+"Lecture-heavy class with tough weekly homework unless you get PLA help. Attendance is required and graded. The reading quizzes are easy, and the final reflective essay isn't bad. Put in some effort and go to PLA sessions, and it's an easy A. Prof. White is passionate about what he teaches and is always willing to help."
+
+"Attendance is mandatory and checked almost daily. His lectures are laidback and calm. Mostly following his code and taking some notes on the process behind the project. One weekly assignment and reading, but neither are overwhelmingly large. Repetitive with concepts, but it is to make sure you understand. Learned a lot, yet never felt like it."
+
+"He is great at teaching Mathematics concepts, so if you take this class with him, it will be one hell of a ride (since he will teach a lot). The assigned work is not hard, but there will be a lot. If you don't understand, keep asking, he is more than willing to re-explain everything.
+"

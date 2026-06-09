@@ -1,0 +1,15 @@
+Professor: Sunghee Kim
+Department: Computer Science
+Courses Taught: CS111, CS112, CS216, CS360
+
+Reviews:
+
+"Ten homework assignments. Three exams. Zero late work accepted. Very very nice person but strict and unforgiving teacher. To her credit this class made me drop my CS major and saved myself from a miserable college career. Overall do not recommend unless you are very, VERY skilled at programming and aren't afraid to move into the CS student lounge."
+
+"Lectures are full. Grading criteria unclear. Tough exams."
+
+"She's awesome at teaching. She is available to ask even after working hours, very dedicated. She gives long but manageable homework, and she provides clear instructions so you are not lost. If you struggle in class, go talk to her. She's very kind, sweet. I would recommend taking a course with her if you are a CS major to step up everything in CS."
+
+"The exam is so hard, many questions never mentioned in class. Hard to follow."
+
+"She's among the best professors at Gettysburg. Her teaching style is very clear and easy to understand. The homework is pretty tough, but she's available and more than happy to help when needed. The tests are a bit hard, so that's something to watch out for."

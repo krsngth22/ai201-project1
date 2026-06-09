@@ -1,0 +1,15 @@
+Professor: Clif Presser
+Department: Computer Science
+Courses Taught: CS111, CS112, CS216, CS322
+
+Reviews:
+
+"He's a good professor and knows his subject. However, he explains things in a very complicated manner which makes it sound like gibberish. If you do your homework and do the quizzes you should get a hang of the course and the tests become easier."
+
+"Without a doubt the best professor in the department. Makes sure to be really clear about grading criteria and writes really good study guides for tests. Tests aren't easy per se, but if you study you'll do fine. Classes are structured well and never feel stressful. I've learned a lot, and would 100% take more of his classes in the future."
+
+"Very nice guy, clear explanation on assignments and different topics. Weekly homework projects get longer as the year goes on, but not too bad if you have any java background. 3 Exams which aren't too bad either. Having some background in Java will help, but not needed. Very personable guy and really enjoyed his class compared to some other CS prof"
+
+"Dr. Presser is easily the best professor in the department. He is fair and very reasonable in his expectations. He is also regarded as the best to go to for office hours. I've learned the most in his classes"
+
+"My favorite professor. His class allows many different learning styles, and I cannot imagine a student who wouldn't find his class a good fit. I strongly recommend reading the book because the material comes up on quizzes, and quiz scores tend to make the difference between an 'A' and a 'B'. I loved his office hours; that's when I learned the most."
